@@ -1,42 +1,20 @@
-# Hi, I'm Dilpreet Singh
+# 💫 About Me:
+# Hi, I'm Dilpreet Singh<br><br>Application Development and Delivery student focused on building reliable software across backend, front-end, and full-stack projects. I am developing practical skills in software engineering, DevOps fundamentals, and cloud workflows.<br><br>## About Me<br>- Studying Application Development and Delivery at Red River College Polytech<br>- Building projects with Python, JavaScript, Typescript, HTML, CSS, SQL, Git/GitHub, and Bash<br>- Learning cloud and DevOps basics with AWS (EC2, S4, Lambda), Linux, and CI/CD workflows<br>- Interested in backend development, automation, and secure coding practices<br><br>## Tech Stack<br>- Languages: Python, JavaScript, SQL, Bash<br>- Databases: PostgreSQL, MongoDB, NoSQL<br>- Web: HTML, CSS, JavaScript<br>- Tools: Git, GitHub, VS Code<br>- Cloud and DevOps: AWS basics (EC2, S3, Lambda), Linux basics, CI/CD basics<br>- Other: Networking fundamentals, troubleshooting, documentation<br><br>## Featured Projects<br>- [Capstone API Project](https://github.com/dilpreetsingh5/capstone-api-project)  <br>  Backend REST API project focused on account balance and spending management, including third-party API integration.<br><br>- [Recipe Management App](https://github.com/dilpreetsingh5/recipe-management-app)  <br>  Full-stack application with CRUD operations and connected front-end/back-end workflow.<br><br>- [COMP 2230 Group Project](https://github.com/dilpreetsingh5/COMP_2230-Group-Project)  <br>  Team-based front-end project with a focus on usability and collaboration.<br><br>- [COMP 2327 Assignment 01](https://github.com/dilpreetsingh5/COMP_2327_Assignment_01)  <br>  Intermediate Python assignment demonstrating structured problem-solving and debugging.<br><br>## Current Learning Focus<br>- Data Analysis with Python libraries<br>- Security Foundations and secure coding<br>- Team-based software delivery and DevOps practices<br><br>## Professional Goals<br>I am seeking internship and junior developer opportunities where I can contribute to real projects, improve code quality, and grow in backend/full-stack development and DevOps.<br><br>## Contact<br>- GitHub: [github.com/dilpreetsingh5](https://github.com/dilpreetsingh5)<br>- Email: Add your email<br>
 
-Application Development and Delivery student focused on building reliable software across backend, front-end, and full-stack projects. I am developing practical skills in software engineering, DevOps fundamentals, and cloud workflows.
 
-## About Me
-- Studying Application Development and Delivery at Red River College Polytech
-- Building projects with Python, JavaScript, SQL, Git/GitHub, and Bash
-- Learning cloud and DevOps basics with AWS (EC2, S4, Lambda), Linux, and CI/CD workflows
-- Interested in backend development, automation, and secure coding practices
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dilpreetsingh5&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dilpreetsingh5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilpreetsingh5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Tech Stack
-- Languages: Python, JavaScript, SQL, Bash
-- Web: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code
-- Cloud and DevOps: AWS basics (EC2, S3, Lambda), Linux basics, CI/CD basics
-- Other: Networking fundamentals, troubleshooting, documentation
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Featured Projects
-- [Capstone API Project](https://github.com/dilpreetsingh5/capstone-api-project)  
-  Backend REST API project focused on account balance and spending management, including third-party API integration.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dilpreetsingh5&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- [Recipe Management App](https://github.com/dilpreetsingh5/recipe-management-app)  
-  Full-stack application with CRUD operations and connected front-end/back-end workflow.
+---
+[![](https://visitcount.itsvg.in/api?id=dilpreetsingh5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- [COMP 2230 Group Project](https://github.com/dilpreetsingh5/COMP_2230-Group-Project)  
-  Team-based front-end project with a focus on usability and collaboration.
-
-- [COMP 2327 Assignment 01](https://github.com/dilpreetsingh5/COMP_2327_Assignment_01)  
-  Intermediate Python assignment demonstrating structured problem-solving and debugging.
-
-## Current Learning Focus
-- Data Analysis with Python libraries
-- Security Foundations and secure coding
-- Team-based software delivery and DevOps practices
-
-## Professional Goals
-I am seeking internship and junior developer opportunities where I can contribute to real projects, improve code quality, and grow in backend/full-stack development and DevOps.
-
-## Contact
-- GitHub: [github.com/dilpreetsingh5](https://github.com/dilpreetsingh5)
-- LinkedIn: Add your LinkedIn profile link
-- Email: Add your email
