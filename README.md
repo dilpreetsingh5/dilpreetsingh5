@@ -9,9 +9,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dilpreetsingh5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilpreetsingh5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ My Dev Quote`r`n> "I build with consistency, keep learning every day, and turn ideas into working software."
+
+### 🔝 Top Repositories`r`nPinned repositories are shown on my GitHub profile: https://github.com/dilpreetsingh5?tab=repositories
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dilpreetsingh5&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
